@@ -1,2 +1,1 @@
-# RoPro
-uh yeah some stuff eventually
+# Roblox Addon
