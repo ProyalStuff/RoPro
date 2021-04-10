@@ -1,0 +1,33 @@
+div .addInputContainer {
+    float: right;
+}
+
+.addMainInput {
+    transition: all .2s ease-in;
+    position:relative; 
+    right:520px; 
+    padding: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(184, 184, 184);
+}
+
+.addMainInput:focus {
+    outline: none;
+    border-color: black;
+}
+
+
+
+
+
+
+.btn-secondary-md.namesubmit {
+    position:relative; 
+    right:525px; 
+    bottom:1.5px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: thin;
+}
