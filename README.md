@@ -1,5 +1,6 @@
 # Roblox Addon
 
 # Useful Links
-<img src="https://raw.githubusercontent.com/ProyalStuff/Roblox-Addon/main/images/discordLink.png" width="350" height="100" href="https://www.github.com">
 
+
+[![discord](https://raw.githubusercontent.com/ProyalStuff/Roblox-Addon/main/images/discordLink.png)](https://discord.io/proyal)
